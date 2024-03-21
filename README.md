@@ -1,8 +1,11 @@
-# React + Vite
+# Theme switcher
+Here i have practised context API 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Screenshots of the web page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](/public/Screenshot%202024-03-21%20234835.png)
+![App Screenshot](/public/Screenshot%202024-03-21%20234844.png)
+
+
+
